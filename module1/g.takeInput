@@ -1,0 +1,5 @@
+def inPutCat():
+    a =input() ##complete this
+    b = input()##complete this
+    c = input()##complete this
+    print(a, b, c) 
