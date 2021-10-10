@@ -1,0 +1,9 @@
+def combo_string(a, b):
+  
+  # your code here
+    longer=a
+    short=b
+    if(len(b)>len(a)):
+        short=a
+        longer=b
+    return short+longer+short
